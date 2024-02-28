@@ -1,0 +1,15 @@
+body {
+    margin-left: 27%;
+    width: 600px;
+    height: 420px;
+    border: 1px solid #354c61;
+    justify-content: center;
+    background: url("pt9.jpg");
+}
+
+center {
+    background: linear-gradient(rgb(236, 204, 204), skyblue, rgb(226, 226, 159), rgb(218, 156, 102));
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
